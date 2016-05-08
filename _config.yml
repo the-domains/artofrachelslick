@@ -1,0 +1,28 @@
+name: artofrachelslick
+favicon: null
+layout_spectrum: 0.6999513849150389
+typography_spectrum: 0.20447848597541451
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7465263190679252
+  lightness: 0.8298171982169151
+  saturation: 0.5618848651647568
+  rhythmicContrast: 0.8235411467030644
+purpose: []
